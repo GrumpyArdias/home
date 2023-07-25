@@ -16,22 +16,22 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/GrumpyArdias",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/",
-    },
+    // {
+    //   image: "fa-facebook",
+    //   url: "https://www.facebook.com/",
+    // },
+    // {
+    //   image: "fa-instagram",
+    //   url: "https://www.instagram.com/",
+    // },
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/mario-herrero/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/",
-    },
+    // {
+    //   image: "fa-twitter",
+    //   url: "https://www.twitter.com/",
+    // },
   ],
 };
 
@@ -57,7 +57,7 @@ const about = {
   message:
     "Technology enthusiast specialized in programming and software development. My main focus is the MERN stack, with backend programming being the part I enjoy the most. I am seeking opportunities where I can apply my knowledge in both development and project management.",
   resume:
-    "https://drive.google.com/file/d/1sC_i5eGmxLTRpY8NUUkcQDJa-qE0r0Iz/view?usp=sharing",
+    "https://drive.google.com/file/d/1lp8C479EW381LPdW3lYnd-Ko84qh8uCG/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -74,7 +74,7 @@ const repos = {
   specificRepos: [
     "miranda-backoffice",
     "miranda-backend",
-    "hotel-miranda",
+    "miranda-laravel",
     "pic-picker",
   ],
 };
@@ -133,7 +133,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Developing! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I am currently in search of full-time software development opportunities!  If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "info@marioherrero.com",
 };
 
